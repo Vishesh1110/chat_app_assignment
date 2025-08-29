@@ -2,7 +2,7 @@
 
 #### 1. Navigate to Project Directory
 ```bash
-cd chat_app
+cd chat_app_assignment
 ```
 
 #### 2. Install Base Dependencies

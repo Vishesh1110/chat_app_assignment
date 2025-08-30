@@ -177,7 +177,7 @@ const ChatInterface = () => {
 
         <div className="p-3 border-t border-gray-800">
           <p className="text-xs text-gray-500 text-center">
-            Press <kbd className="px-1 bg-gray-800 rounded">Ctrl+P</kbd> to pin chat
+            Press <kbd className="px-1 bg-gray-800 rounded">Cmd+I</kbd> to pin chat
           </p>
         </div>
       </div>
@@ -242,7 +242,7 @@ const ChatInterface = () => {
               </div>
             </div>
             <p className="text-xs text-gray-500 text-center mt-2">
-              Press Enter to send, Shift+Enter for new line, Cmd+i to pin
+              Press Enter to send, Shift+Enter for new line, Cmd+I to pin
             </p>
           </div>
         </div>

@@ -32,7 +32,7 @@ npm run dev
 
 ### 🎯 One-Line Setup (Copy & Paste)
 ```bash
-cd chat_app && npm install && npm install -D tailwindcss postcss autoprefixer && npx tailwindcss init -p && npm install lucide-react && npm run dev
+cd chat_app_assignment && npm install && npm install -D tailwindcss postcss autoprefixer && npx tailwindcss init -p && npm install lucide-react && npm run dev
 ```
 
 ---
